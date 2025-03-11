@@ -6,7 +6,7 @@ This repository contains the financial model and break-even analysis for CandyMo
 
 CandyMonkey, a local confectionery brand in Raipur, is launching a new chocolate product called the Mini Pack. This product is expected to appeal to both children and families. This analysis aims to determine the break-even point and assess the profitability of the Mini Pack over the first twelve months.
 
-## Data and Assumptions
+## Data and Assumptions 
 
 * **Product:** Mini Pack (100 grams)
 * **Selling Price:** Rs. 140 per unit
